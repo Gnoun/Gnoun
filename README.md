@@ -10,7 +10,7 @@ The music and conlang I work on are largely unavailable and constantly in develo
 
 | Passion | date started | current state¹
 |:-|:-|:-
-| Piano playing | 2018 (Apr 7) | Learning to read sheet music since 2 April 2022 (unfortunately); skill level: close to *Prelude in G Minor* (Rachmaninoff).
+| Piano playing | 2018 (Apr 7) | Learning to read sheet music since 2 April 2022 (unfortunately); skill level: close to *Prelude in G Minor* (by Rachmaninoff).
 | Music composing | 2019 (early) | Composed 46 electronic music pieces with total length of 1:58:43.
 | Mathematics | 2019 (early / Apr 9) | Self-learned most of calculus; suspended self-learning math in 2021; currently re-establishing connection with math.
 | Language learning | 2019-2020² | B1-B2 level in Spanish and Russian (I'm also a Polish native speaker and my English is at least at C1) (as for my own language – I remember perhaps a couple hundred words).
